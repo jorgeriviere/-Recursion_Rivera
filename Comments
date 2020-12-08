@@ -1,0 +1,1 @@
+//Recursion is used to reduce a complex problem using "simpler-to-solve-Problem". The simpler-to-solve problem is called base case. After a recursive calls the stop when the base case is reached. Basically, the functions call on itself x number of times, doing the same action until told to stop. 
